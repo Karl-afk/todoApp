@@ -13,7 +13,9 @@
 
 <header class="bg-info text-white py-3 shadow-sm">
   <div class="container">
-    <div class="d-flex justify-content-between align-items-center">
+    <div
+      class="d-flex flex-column flex-md-row justify-content-between align-items-center"
+    >
       <div>
         <h1>Dashboard</h1>
         <p class="h4">
