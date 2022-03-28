@@ -23,10 +23,10 @@
       <div>
         <ul class="nav text-white h4">
           <li class="nav-item">
-            <a href="/#/" class="nav-link link-light">Kartenansicht</a>
+            <a href="#/" class="nav-link link-light">Kartenansicht</a>
           </li>
           <li class="nav-item">
-            <a href="/#/tabelle" class="nav-link link-light">Tabellenansicht</a>
+            <a href="#/tabelle" class="nav-link link-light">Tabellenansicht</a>
           </li>
         </ul>
       </div>
